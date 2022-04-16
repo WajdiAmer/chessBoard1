@@ -1,0 +1,37 @@
+#table1 {
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
+
+#tableBackground {
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    width: 772px;
+    height: 772px;
+    background-color: lightgrey
+}
+
+
+.black {
+     height: 80px;
+     width: 80px;
+     background-color: black;
+     border: solid 2px white;
+ }
+ 
+.white {
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border: solid 2px black;
+}
+
+td {
+    padding: 0px;
+}
+
+table {
+    border-spacing: 0px;
+}
